@@ -23,3 +23,8 @@ A keeper project made using react for Frontend Web Development
 ## Credits
 This project was made by following the tutorial of Dr Angela Yu of <a href="https://www.udemy.com/course/the-complete-web-development-bootcamp/">The Complete 2022 Web Development Bootcamp</a> from <a href="https://github.com/londonappbrewery">London App Brewery</a>.
 
+
+## Helpful Links
+
+* <a href="https://reactjs.org/docs/getting-started.html">Getting Started with React</a>
+* <a href="https://developer.mozilla.org/en-US/">Resources for Web Development Docs</a>
