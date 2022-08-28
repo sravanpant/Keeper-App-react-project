@@ -31,3 +31,4 @@ This project was made by following the tutorial of Dr Angela Yu of <a href="http
 
 * <a href="https://reactjs.org/docs/getting-started.html">Getting Started with React</a>
 * <a href="https://developer.mozilla.org/en-US/">Resources for Web Development Docs</a>
+* <a href="https://nodejs.dev/en/learn/update-all-the-nodejs-dependencies-to-their-latest-version">How to update all the dependencies</a>
