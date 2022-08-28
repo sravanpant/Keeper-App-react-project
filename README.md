@@ -16,7 +16,7 @@ A keeper project made using react for Frontend Web Development
 1. Download the files.
 2. Open the folder in terminal.
 3. Run the command `sudo npm install -g npm-check-updates`.
-4. Next is `ncu -u`.
+4. Next command to run is `ncu -u`.
 5. After that run the command `npm install`.
 5. This will install all the the required packages.
 6. Ignore the vulnerability warnings if any.
