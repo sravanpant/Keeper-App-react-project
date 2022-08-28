@@ -10,6 +10,7 @@ A keeper project made using react for Frontend Web Development
 5. Create a Note.jsx component to show a `<div>` element with a `<h1>` for a title and a `<p>` for the content.
 6. Make sure that the final website is styled like the example shown here:
 7. https://l1pp6.csb.app/
+8. Render all the notes inside notes.js as a seperate Note component.
 
 ## How to use
 
