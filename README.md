@@ -1,16 +1,8 @@
 # Keeper-App-react-project
 A keeper project made using react for Frontend Web Development
 
-## Instructions
-
-1. Create a new React app.
-2. Create a App.jsx component.
-3. Create a Header.jsx component that renders a `<header>` element to show the Keeper App name in an `<h1>` tag.
-4. Create a Footer.jsx component that renders a `<footer>` element show a copyright message in a `<p>` with a dynamically updated year.
-5. Create a Note.jsx component to show a `<div>` element with a `<h1>` for a title and a `<p>` for the content.
-6. Make sure that the final website is styled like the example shown here:
-7. https://l1pp6.csb.app/
-8. Render all the notes inside notes.js as a seperate Note component.
+## Live Website
+Go to https://wbiby3.csb.app/ for using the website.
 
 ## How to use
 
