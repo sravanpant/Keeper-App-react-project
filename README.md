@@ -8,12 +8,25 @@ Go to https://wbiby3.csb.app/ for using the website.
 
 1. Download the files.
 2. Open the folder in terminal.
-3. Run the command `sudo npm install -g npm-check-updates`.
-4. Next command to run is `ncu -u`.
-5. After that run the command `npm install`.
+3. Run the command 
+```
+sudo npm install -g npm-check-updates
+```
+4. Next command to run is 
+```
+ncu -u
+```
+5. After that run the command 
+```
+npm install
+```
 6. This will install all the the required packages.
 7. Ignore the vulnerability warnings if any.
-8. Then run the command `npm start` to start the deployment of react app.
+8. Then run this command to start the deployment of react app.
+```
+npm start
+``` 
+
 
 
 ## Credits
